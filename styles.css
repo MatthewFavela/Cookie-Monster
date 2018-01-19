@@ -1,0 +1,54 @@
+body {
+    background-color: blue;
+}
+
+img{
+    border: solid;
+    padding: 0.5px;
+    width: 200px;
+    height: 200px;
+}
+
+#cookie1{
+    margin-left: 300px;
+    margin-top: 700px;
+}
+
+#cookie2{
+    margin-left: 300px;
+}
+
+#cookie3{
+    margin-left: 300px;
+}
+
+#cookie4{
+    margin-left: 300px;
+}
+
+#cookie5{
+    margin-left: 300px;
+}
+
+#navBar{
+    margin-left: 0px;
+    font-size: 20px;
+    background-color:rgb(67, 182, 67);
+    padding: 10px;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    float: left;
+    padding: 5px;
+    margin-top: -25px;
+    margin-left: 0px;
+}
